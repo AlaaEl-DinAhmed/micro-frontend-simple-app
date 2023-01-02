@@ -5,7 +5,6 @@
   "repository": "git@github.com:AlaaEl-DinAhmed/micro-frontend-simple-app.git",
   "author": "<AlaaEl-DinAhmed>",
   "license": "MIT",
-  "type": "module",
   "scripts": {
     "start": "webpack serve"
   },
