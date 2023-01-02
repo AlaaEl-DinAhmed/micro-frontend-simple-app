@@ -1,10 +1,14 @@
 {
-  "name": "micro-frontend-simple-app",
+  "name": "products",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:AlaaEl-DinAhmed/micro-frontend-simple-app.git",
+  "type": "module",
   "author": "<alaaeldin.muhammad@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "webpack serve"
+  },
   "devDependencies": {
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.75.0",
