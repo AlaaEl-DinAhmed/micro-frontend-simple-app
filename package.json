@@ -6,7 +6,6 @@
   "author": "<alaaeldin.muhammad@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "faker": "^6.6.6",
     "html-webpack-plugin": "^5.5.0",
     "webpack": "^5.75.0",
     "webpack-cli": "^5.0.1",
