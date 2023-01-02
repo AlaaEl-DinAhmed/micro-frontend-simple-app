@@ -1,12 +1,13 @@
 {
   "private": true,
   "scripts": {
-    "start": "concurrently \"cd container; yarn start\"  \"cd products; yarn start\""
+    "start": "concurrently \"cd container; yarn start\" \"cd products; yarn start\" \"cd product-details; yarn start\""
   },
   "workspaces": {
     "packages": [
       "./container",
-      "./products"
+      "./products",
+      "./product-details"
     ]
   }
 }
