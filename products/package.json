@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:AlaaEl-DinAhmed/micro-frontend-simple-app.git",
-  "type": "module",
   "author": "<alaaeldin.muhammad@gmail.com>",
   "license": "MIT",
   "scripts": {
